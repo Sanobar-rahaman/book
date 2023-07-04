@@ -1,0 +1,30 @@
+*{
+    margin:10px;
+}
+.head{
+    height:300px;
+    font-size: large;
+    background-image:url('istockphoto-1315227828-612x612.jpg')
+}
+.one{
+    border: 15px solid orange;
+    box-shadow: 10px 10px 10px;
+    height: 250px;
+    width: 150px;
+    background-color: aqua;
+}
+.two{
+    border: 10px dashed tomato;
+    box-shadow: 10px 10px 10px;
+    height: 250px;
+    width: 150px;
+    margin-left: 250px;
+    /* padding-bottom: 1000px; */
+    /* margin-bottom:4000px; */
+}
+.three{
+    border: 10px solid black;
+    background-color: aqua;
+    height: 250px;
+    width: 150px;
+}
